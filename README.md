@@ -20,6 +20,9 @@ Desenvolver uma Landing Page moderna e responsiva, utilizando apenas HTML5 e CSS
 ✅ Concluído
 <br>
 
+## Deploy 
+https://carver-4food.surge.sh/
+
 ## Tecnologias:
 HTML5 | CSS3
 
